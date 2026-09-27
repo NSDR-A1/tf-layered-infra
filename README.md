@@ -41,7 +41,7 @@ cd ../network && terraform destroy
 
 ## What I learned
 
-- (write your own observations here)
+- Learnt about terraform plan -destroy, this repo was really to share data through remote state 
 
 ## Prerequisites
 
